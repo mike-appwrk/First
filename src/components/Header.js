@@ -1,7 +1,7 @@
 function Header () {
   return (
     <header>
-      <h2>Header</h2>
+      <h2>Waves</h2>
     </header>
   )
 }
