@@ -7,7 +7,7 @@ function Hero() {
         <img src="./images/hero.jpg" alt="Intro" />
       </div>
       <div className="textbox textbox--hero">
-        <h2>Waves Main</h2>
+        <h2>Waves Main Stash Test</h2>
         <h4>Space Time and Cloud of uncertainity</h4>
         <Button text="Join Now"></Button>
       </div>
