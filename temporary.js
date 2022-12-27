@@ -1,5 +1,6 @@
 const info = {
-  exists: true
+  exists: true,
+  temp: true
 }
 
 export const info;
