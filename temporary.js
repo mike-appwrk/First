@@ -3,4 +3,4 @@ const info = {
   temp: true
 }
 
-export const info;
+export default info;
