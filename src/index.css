@@ -1,1 +1,25 @@
+*, *::after, *::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+:root{
+  --ff-secondary: Verdana, Geneva, Tahoma, sans-serif;
+  --ff-primary: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+  font-family: var(--ff-secondary);
+}
+
+h1, h2, h3 {
+  font-family: var(--ff-primary);
+}
+
+header {
+  background: lightsalmon;
+  padding: 20px 40px;
+  text-align: center;
+  color: #fff;
+}
