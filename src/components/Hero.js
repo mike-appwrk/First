@@ -7,9 +7,9 @@ function Hero() {
         <img src="./images/hero.jpg" alt="Intro" />
       </div>
       <div className="textbox textbox--hero">
-        <h2>Waves Main Stash Test</h2>
-        <h4>Space Time and Cloud of uncertainity</h4>
-        <Button text="Join Now"></Button>
+        <h2>Waves</h2>
+        <h4>Space Time and Clouds of uncertainity</h4>
+        <Button text="Join Us"></Button>
       </div>
     </div>
   )

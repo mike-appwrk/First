@@ -1,7 +1,8 @@
 function Header () {
   return (
     <header>
-      <h2>Header New</h2>
+      <h2>Waves Cloud + Waves Local</h2>
+      <p>Hi</p>
     </header>
   )
 }
